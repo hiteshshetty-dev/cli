@@ -1,4 +1,12 @@
 fileignoreconfig:
+- filename: package-lock.json
+  checksum: c2ac262d5e6dd1bd470666fd6212d3af4be67a7100e4fda34a92099a946d98a1
+- filename: packages/auth/oclif.manifest.json
+  checksum: 287416340820205d98d5c1df21bc6cb05f73f47110b49596a4a305f028bebd7a
+- filename: packages/contentstack-export/oclif.manifest.json
+  checksum: 8ddfba750e7b3763cc8c27fc60e5d02a4dca404d0dc3b6f071ed4a908df5bc7c
+- filename: packages/contentstack-import/oclif.manifest.json
+  checksum: e1822fb6bd2c370fcdc332ac8aeac147890f490dff8e58b40e4497fca5779647
 - filename: packages/contentstack-migrate-rte/package-lock.json
   checksum: 2bf4086a39f40cb72f9f248d3b3e6c027e91775874aba3a05a5f02be2c21998b
 - filename: packages/contentstack-migrate-rte/src/lib/util/index.js
@@ -11,3 +19,5 @@ fileignoreconfig:
   checksum: 91991c6dbbaf71cc0089cd59e7aafc3df64511f3a88f7865e71bbecc1f10f7bf
 - filename: packages/contentstack-migrate-rte/test/utils/index.js
   checksum: 1dd37624c258f2d62b70afb078341ba3a4ab05548d428adddfa71c8fd486d9be
+- filename: packages/contentstack-seed/package-lock.json
+  checksum: 4f477bf5cb358d32dc75b40bfdc56e75af22c9d4aa1aa73b9814e453607d661b
